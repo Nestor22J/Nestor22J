@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hola Soy Néstor
+🎓 Estudiante de **Ingeniería de Sistemas** en la **UNAM Moquegua**.  
+💡 Me interesa aprender sobre **inteligencia artificial**, **análisis de datos** y **programación**.  
+🌱 Estoy empezando a explorar los conceptos básicos de **IA y Ciencia de datos** y a fortalecer mis conocimientos en **Python**.
 
-<!--
-**Nestor22J/Nestor22J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧩En este perfil comparto algunos ejercicios y proyectos simples que realizo mientras aprendo.  
+Me gusta experimentar, practicar y mejorar poco a poco en el área tecnológica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 **Contacto**  
+🔗 [LinkedIn](www.linkedin.com/in/nestor-jesus-ccama-989a71389)  
+✉️ nestorccama233@gmail.com
